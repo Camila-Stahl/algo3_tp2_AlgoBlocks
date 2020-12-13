@@ -6,4 +6,6 @@ public class PincelArriba implements PosicionPincel {
     public Celda pasoPincelSobre(Celda celda){
         return celda;
     }
+    public void pintar(Celda celdaActual) {
+    }
 }

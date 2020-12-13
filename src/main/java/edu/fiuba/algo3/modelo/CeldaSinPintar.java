@@ -1,4 +1,4 @@
 package edu.fiuba.algo3.modelo;
 
-public class CeldaSinPintar implements Celda{
+public class CeldaSinPintar implements ModalidadCelda{
 }
